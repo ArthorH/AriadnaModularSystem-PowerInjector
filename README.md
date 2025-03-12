@@ -1,7 +1,7 @@
 # Ariadna Modular System Power Injector board
 ![IMG_0537](https://github.com/user-attachments/assets/d3be10e5-bf0e-443a-9e95-a679060ae204)
 
-## Project Status: **Compleated**  
+## Project Status: **completed**  
 REVISION B
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ✅ — **Bringup** ✅ — **Testing** ✅  
 ## Key technologies:
