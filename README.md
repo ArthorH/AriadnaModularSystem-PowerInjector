@@ -11,6 +11,9 @@ REVISION B
 - USB hub
 
 # Interested in AMS? Here's other projects:
+<img width="771" height="560" alt="image" src="https://github.com/user-attachments/assets/cddfbf1f-463d-4c7e-8e57-18b42fc83fb1" />
+
+
 - Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector <----- You are here
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
